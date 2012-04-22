@@ -1,4 +1,1 @@
-Scroll-Effects
-==============
-
-I&#39;ve relocated to http://github.com/hakimel/stroll.js
+# I've relocated to [http://github.com/hakimel/stroll.js](http://github.com/hakimel/stroll.js).
